@@ -1,2 +1,6 @@
 *.zip
 *.CSV
+*.tsv
+*.TSV
+node_modules
+*.json
